@@ -28,6 +28,6 @@ I am a passionate data science student with a strong background in full-stack we
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=IamSiddhantaVerma&label=Profile+Views&color=7d12ff&style=plastic&base=1000)
+![Profile Views](https://komarev.com/ghpvc/?username=IamSiddhantaVerma&label=Profile+Views&color=7d12ff&style=plastic&base=1)
 
 <!--Edit After Commenting Above Code-->
